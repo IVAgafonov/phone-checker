@@ -1,2 +1,2 @@
-# phone-checker
-Phone lib
+# auth-checker
+Auth checker lib
