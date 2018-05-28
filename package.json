@@ -1,0 +1,28 @@
+{
+  "name": "auth-checker",
+  "version": "1.0.0",
+  "description": "Auth checker lib",
+  "main": "dist/auth-checker.js",
+  "scripts": {
+    "test": "test",
+    "build": "webpack",
+    "start": "webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IVAgafonov/auth-checker.git"
+  },
+  "keywords": [
+    "phone"
+  ],
+  "author": "IAgafonov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IVAgafonov/auth-checker/issues"
+  },
+  "homepage": "https://github.com/IVAgafonov/auth-checker#readme",
+  "devDependencies": {
+    "webpack": "^4.9.1",
+    "webpack-cli": "^2.1.4"
+  }
+}
